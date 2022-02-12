@@ -1,0 +1,153 @@
+button{
+    background-color:rgb(252, 236, 208);
+    padding: 8px;
+    border: 1px solid rgb(243, 222, 151);
+    border-radius: 10px;
+}
+
+.box_one{
+background-color: rgb(252, 236, 208);
+height: 300px;
+}
+
+.blok{
+    width: 800px;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.navigation{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+} 
+
+.item{
+    padding: 5px 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+#Hello{
+    font-size: 40px;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+}
+
+.hi{
+    padding-top:90px; 
+    padding-bottom: 40px;
+}
+
+.box_two{
+    background-color: rgb(255, 253, 232);
+} 
+
+.knopka{  
+   font-family: 'Fira Sans', sans-serif;
+   font-weight: 700;
+   font-size: 32px;
+   text-align: center;
+   padding-top: 30px;
+   padding-bottom: 20px;
+}
+#iam{
+   font-family: 'Fira Sans', sans-serif;
+   font-weight: 300;
+   font-size: 22px;
+   text-align: center;
+   padding-bottom: 20px;
+}
+.image{
+    width: 500px;
+    height: 300px;
+    box-sizing: border-box;
+    margin: auto;
+    padding-bottom: 30px;
+}
+.foto{
+    width: 500px;
+    height: 300px;
+}
+
+.box_three{
+    background-color: rgb(255, 253, 232);
+    }
+    
+.skills{
+    display: flex;
+    flex-flow: row nowrap;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.component{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color:rgb(231, 229, 201);
+    border-color:rgb(202, 200, 177);
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 30px;  
+}
+.box_four{
+    background-color: rgb(255, 253, 232);
+}
+.strong{
+    width: max-content; 
+    height:max-content;
+    padding-bottom: 30px;
+    box-sizing: border-box;
+    margin: auto;
+}
+.spisok{
+    list-style-type: square;
+    font-size: 20px;
+}
+.box_five{
+    background-color: rgb(255, 253, 232);
+    height: 200px;
+}
+.sertificat{
+    width: 150px;
+    height: 100px;
+    box-sizing: border-box;
+    margin: auto;
+    background-color: gainsboro; 
+    border-color: gray;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.box_six{
+    background-color: rgb(255, 253, 232);
+}
+.work{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center; 
+}
+.name_work{
+    width: 150px;
+    height: 100px;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+.box_seven{
+    background-color: rgb(252, 236, 208);
+    height: 160px;
+}
+.icon{
+    margin-right: 20px;
+}
+.contacts{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly; 
+}
